@@ -1,10 +1,10 @@
 ## Description
 
-### Actividad 1 - Diseño y operaciones CRUD en Bases de datos NoSQL
+### Actividad 3 - Conceptos y Comandos básicos del particionamiento en bases de datos NoSQL
 
 <p>
 
-Propuesta de modelo de bases de datos noSQL para un torneo de tejo
+Propuesta de shardding en mongodb
 Scripts de mongosh en formato .js
 </p>
 
